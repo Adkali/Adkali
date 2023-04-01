@@ -5,7 +5,7 @@
     <img alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.png"/>
   </a>
 
-# PRoJeCtS
+# PRoJeCtS ⬇️
 <details>
   <summary>Adkali's Projects</summary>
   <table>
