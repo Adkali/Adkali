@@ -17,7 +17,7 @@
     </thead>
     <tbody>
       <tr>
-        <td>Hashget is a Python tool for scraping decrypted hashes from open sites.</td>
+        <td>Hashget is a great Python tool for scraping decrypted hashes from open sites.</td>
         <td><a href="https://github.com/Adkali/Hashget">Hashget</a></td>
       </tr>
       <tr>
