@@ -1,6 +1,6 @@
 # Adkali 🕶️
-<p>- Lecturer for Cyber Security at HackerU.
-<p> - A content creator at ThriveDXLABS.<p>
+<p>- Content Creator | Cyber Security | A friend.
+<p> - ThriveDXLABS / / HackerU<p>
   <a href="https://www.linkedin.com/in/adkali/">
     <img alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.png"/>
   </a>
